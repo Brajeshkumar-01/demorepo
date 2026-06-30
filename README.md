@@ -1,2 +1,2 @@
 # demorepo
-this show a repo demo
+This is show a demo repo
